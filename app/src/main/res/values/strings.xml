@@ -1,12 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false" tools:override="true">Pupil</string>
+    <string name="app_name" translatable="false" tools:override="true">Pupilldx</string>
 
     <string name="release_url" translatable="false">https://api.github.com/repos/tom5079/Pupil/releases</string>
 
     <string name="home_page" translatable="false">http://bit.ly/2EZDClw</string>
     <string name="help" translatable="false">http://bit.ly/2Z7lNZE</string>
     <string name="github" translatable="false">https://github.com/tom5079/Pupil/</string>
-    <string name="email" translatable="false">mailto:pupil.hentai@gmail.com</string>
+    <string name="email" translatable="false">mailto:me@4rne5.dev</string>
     <string name="discord" translatable="false">https://discord.gg/Stj4b5v</string>
 
     <!-- Korean only -->
